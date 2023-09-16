@@ -4,4 +4,4 @@ The goal of this project was to employ statistical modeling to accurately foreca
 ## Languages
 - Excel (see the other project for more information on why we use Excel!)
 ## Set-Up Guide
-All the data is included directly in the Excel file!
+All of the data is included directly in the Excel file!
